@@ -1,2 +1,16 @@
-# data_cleaning
-Práctica 2 de la asignatura de Tipología y Ciclo de Vida de los Datos del Máster en Ciencia de Datos de la UOC. Por Marina Peña y Martín Sánchez
+# Reviews de Cerveza
+Práctica 2 de la asignatura de Tipología y Ciclo de Vida de los Datos del Máster en Ciencia de Datos de la UOC.
+
+## Autores
+
+Marina Peña y Martín Sánchez
+
+## Dataset
+
+El dataset puede encontrarse en la siguiente dirección:
+
+https://www.kaggle.com/datasets/rdoume/beerreviews
+
+## Licencia
+
+El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usado para mostrar este contenido esta licenciado bajo la MIT license.
